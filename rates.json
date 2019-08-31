@@ -1,0 +1,677 @@
+{
+  "table": "A",
+  "currency": "funt szterling",
+  "code": "GBP",
+  "rates": [
+    {
+      "no": "034/A/NBP/2019",
+      "effectiveDate": "2019-02-18",
+      "mid": 4.9437
+    },
+    {
+      "no": "035/A/NBP/2019",
+      "effectiveDate": "2019-02-19",
+      "mid": 4.9495
+    },
+    {
+      "no": "036/A/NBP/2019",
+      "effectiveDate": "2019-02-20",
+      "mid": 4.9840
+    },
+    {
+      "no": "037/A/NBP/2019",
+      "effectiveDate": "2019-02-21",
+      "mid": 4.9965
+    },
+    {
+      "no": "038/A/NBP/2019",
+      "effectiveDate": "2019-02-22",
+      "mid": 4.9787
+    },
+    {
+      "no": "039/A/NBP/2019",
+      "effectiveDate": "2019-02-25",
+      "mid": 5.0025
+    },
+    {
+      "no": "040/A/NBP/2019",
+      "effectiveDate": "2019-02-26",
+      "mid": 5.0259
+    },
+    {
+      "no": "041/A/NBP/2019",
+      "effectiveDate": "2019-02-27",
+      "mid": 5.0321
+    },
+    {
+      "no": "042/A/NBP/2019",
+      "effectiveDate": "2019-02-28",
+      "mid": 5.0350
+    },
+    {
+      "no": "043/A/NBP/2019",
+      "effectiveDate": "2019-03-01",
+      "mid": 5.0223
+    },
+    {
+      "no": "044/A/NBP/2019",
+      "effectiveDate": "2019-03-04",
+      "mid": 5.0183
+    },
+    {
+      "no": "045/A/NBP/2019",
+      "effectiveDate": "2019-03-05",
+      "mid": 5.0082
+    },
+    {
+      "no": "046/A/NBP/2019",
+      "effectiveDate": "2019-03-06",
+      "mid": 5.0014
+    },
+    {
+      "no": "047/A/NBP/2019",
+      "effectiveDate": "2019-03-07",
+      "mid": 5.0077
+    },
+    {
+      "no": "048/A/NBP/2019",
+      "effectiveDate": "2019-03-08",
+      "mid": 5.0272
+    },
+    {
+      "no": "049/A/NBP/2019",
+      "effectiveDate": "2019-03-11",
+      "mid": 4.9577
+    },
+    {
+      "no": "050/A/NBP/2019",
+      "effectiveDate": "2019-03-12",
+      "mid": 5.0332
+    },
+    {
+      "no": "051/A/NBP/2019",
+      "effectiveDate": "2019-03-13",
+      "mid": 5.0013
+    },
+    {
+      "no": "052/A/NBP/2019",
+      "effectiveDate": "2019-03-14",
+      "mid": 5.0398
+    },
+    {
+      "no": "053/A/NBP/2019",
+      "effectiveDate": "2019-03-15",
+      "mid": 5.0406
+    },
+    {
+      "no": "054/A/NBP/2019",
+      "effectiveDate": "2019-03-18",
+      "mid": 5.0199
+    },
+    {
+      "no": "055/A/NBP/2019",
+      "effectiveDate": "2019-03-19",
+      "mid": 5.0190
+    },
+    {
+      "no": "056/A/NBP/2019",
+      "effectiveDate": "2019-03-20",
+      "mid": 4.9955
+    },
+    {
+      "no": "057/A/NBP/2019",
+      "effectiveDate": "2019-03-21",
+      "mid": 4.9503
+    },
+    {
+      "no": "058/A/NBP/2019",
+      "effectiveDate": "2019-03-22",
+      "mid": 4.9700
+    },
+    {
+      "no": "059/A/NBP/2019",
+      "effectiveDate": "2019-03-25",
+      "mid": 5.0024
+    },
+    {
+      "no": "060/A/NBP/2019",
+      "effectiveDate": "2019-03-26",
+      "mid": 5.0128
+    },
+    {
+      "no": "061/A/NBP/2019",
+      "effectiveDate": "2019-03-27",
+      "mid": 5.0329
+    },
+    {
+      "no": "062/A/NBP/2019",
+      "effectiveDate": "2019-03-28",
+      "mid": 5.0187
+    },
+    {
+      "no": "063/A/NBP/2019",
+      "effectiveDate": "2019-03-29",
+      "mid": 4.9960
+    },
+    {
+      "no": "064/A/NBP/2019",
+      "effectiveDate": "2019-04-01",
+      "mid": 5.0090
+    },
+    {
+      "no": "065/A/NBP/2019",
+      "effectiveDate": "2019-04-02",
+      "mid": 5.0086
+    },
+    {
+      "no": "066/A/NBP/2019",
+      "effectiveDate": "2019-04-03",
+      "mid": 5.0309
+    },
+    {
+      "no": "067/A/NBP/2019",
+      "effectiveDate": "2019-04-04",
+      "mid": 5.0297
+    },
+    {
+      "no": "068/A/NBP/2019",
+      "effectiveDate": "2019-04-05",
+      "mid": 4.9998
+    },
+    {
+      "no": "069/A/NBP/2019",
+      "effectiveDate": "2019-04-08",
+      "mid": 4.9854
+    },
+    {
+      "no": "070/A/NBP/2019",
+      "effectiveDate": "2019-04-09",
+      "mid": 4.9827
+    },
+    {
+      "no": "071/A/NBP/2019",
+      "effectiveDate": "2019-04-10",
+      "mid": 4.9678
+    },
+    {
+      "no": "072/A/NBP/2019",
+      "effectiveDate": "2019-04-11",
+      "mid": 4.9656
+    },
+    {
+      "no": "073/A/NBP/2019",
+      "effectiveDate": "2019-04-12",
+      "mid": 4.9514
+    },
+    {
+      "no": "074/A/NBP/2019",
+      "effectiveDate": "2019-04-15",
+      "mid": 4.9497
+    },
+    {
+      "no": "075/A/NBP/2019",
+      "effectiveDate": "2019-04-16",
+      "mid": 4.9476
+    },
+    {
+      "no": "076/A/NBP/2019",
+      "effectiveDate": "2019-04-17",
+      "mid": 4.9265
+    },
+    {
+      "no": "077/A/NBP/2019",
+      "effectiveDate": "2019-04-18",
+      "mid": 4.9483
+    },
+    {
+      "no": "078/A/NBP/2019",
+      "effectiveDate": "2019-04-19",
+      "mid": 4.9479
+    },
+    {
+      "no": "079/A/NBP/2019",
+      "effectiveDate": "2019-04-23",
+      "mid": 4.9522
+    },
+    {
+      "no": "080/A/NBP/2019",
+      "effectiveDate": "2019-04-24",
+      "mid": 4.9452
+    },
+    {
+      "no": "081/A/NBP/2019",
+      "effectiveDate": "2019-04-25",
+      "mid": 4.9669
+    },
+    {
+      "no": "082/A/NBP/2019",
+      "effectiveDate": "2019-04-26",
+      "mid": 4.9709
+    },
+    {
+      "no": "083/A/NBP/2019",
+      "effectiveDate": "2019-04-29",
+      "mid": 4.9794
+    },
+    {
+      "no": "084/A/NBP/2019",
+      "effectiveDate": "2019-04-30",
+      "mid": 4.9677
+    },
+    {
+      "no": "085/A/NBP/2019",
+      "effectiveDate": "2019-05-02",
+      "mid": 4.9840
+    },
+    {
+      "no": "086/A/NBP/2019",
+      "effectiveDate": "2019-05-06",
+      "mid": 5.0219
+    },
+    {
+      "no": "087/A/NBP/2019",
+      "effectiveDate": "2019-05-07",
+      "mid": 5.0126
+    },
+    {
+      "no": "088/A/NBP/2019",
+      "effectiveDate": "2019-05-08",
+      "mid": 4.9984
+    },
+    {
+      "no": "089/A/NBP/2019",
+      "effectiveDate": "2019-05-09",
+      "mid": 4.9898
+    },
+    {
+      "no": "090/A/NBP/2019",
+      "effectiveDate": "2019-05-10",
+      "mid": 4.9745
+    },
+    {
+      "no": "091/A/NBP/2019",
+      "effectiveDate": "2019-05-13",
+      "mid": 4.9840
+    },
+    {
+      "no": "092/A/NBP/2019",
+      "effectiveDate": "2019-05-14",
+      "mid": 4.9631
+    },
+    {
+      "no": "093/A/NBP/2019",
+      "effectiveDate": "2019-05-15",
+      "mid": 4.9661
+    },
+    {
+      "no": "094/A/NBP/2019",
+      "effectiveDate": "2019-05-16",
+      "mid": 4.9112
+    },
+    {
+      "no": "095/A/NBP/2019",
+      "effectiveDate": "2019-05-17",
+      "mid": 4.9273
+    },
+    {
+      "no": "096/A/NBP/2019",
+      "effectiveDate": "2019-05-20",
+      "mid": 4.9117
+    },
+    {
+      "no": "097/A/NBP/2019",
+      "effectiveDate": "2019-05-21",
+      "mid": 4.9038
+    },
+    {
+      "no": "098/A/NBP/2019",
+      "effectiveDate": "2019-05-22",
+      "mid": 4.8906
+    },
+    {
+      "no": "099/A/NBP/2019",
+      "effectiveDate": "2019-05-23",
+      "mid": 4.8852
+    },
+    {
+      "no": "100/A/NBP/2019",
+      "effectiveDate": "2019-05-24",
+      "mid": 4.8768
+    },
+    {
+      "no": "101/A/NBP/2019",
+      "effectiveDate": "2019-05-27",
+      "mid": 4.8759
+    },
+    {
+      "no": "102/A/NBP/2019",
+      "effectiveDate": "2019-05-28",
+      "mid": 4.8641
+    },
+    {
+      "no": "103/A/NBP/2019",
+      "effectiveDate": "2019-05-29",
+      "mid": 4.8744
+    },
+    {
+      "no": "104/A/NBP/2019",
+      "effectiveDate": "2019-05-30",
+      "mid": 4.8672
+    },
+    {
+      "no": "105/A/NBP/2019",
+      "effectiveDate": "2019-05-31",
+      "mid": 4.8572
+    },
+    {
+      "no": "106/A/NBP/2019",
+      "effectiveDate": "2019-06-03",
+      "mid": 4.8410
+    },
+    {
+      "no": "107/A/NBP/2019",
+      "effectiveDate": "2019-06-04",
+      "mid": 4.8144
+    },
+    {
+      "no": "108/A/NBP/2019",
+      "effectiveDate": "2019-06-05",
+      "mid": 4.8221
+    },
+    {
+      "no": "109/A/NBP/2019",
+      "effectiveDate": "2019-06-06",
+      "mid": 4.8274
+    },
+    {
+      "no": "110/A/NBP/2019",
+      "effectiveDate": "2019-06-07",
+      "mid": 4.8270
+    },
+    {
+      "no": "111/A/NBP/2019",
+      "effectiveDate": "2019-06-10",
+      "mid": 4.7897
+    },
+    {
+      "no": "112/A/NBP/2019",
+      "effectiveDate": "2019-06-11",
+      "mid": 4.7939
+    },
+    {
+      "no": "113/A/NBP/2019",
+      "effectiveDate": "2019-06-12",
+      "mid": 4.7954
+    },
+    {
+      "no": "114/A/NBP/2019",
+      "effectiveDate": "2019-06-13",
+      "mid": 4.7804
+    },
+    {
+      "no": "115/A/NBP/2019",
+      "effectiveDate": "2019-06-14",
+      "mid": 4.7771
+    },
+    {
+      "no": "116/A/NBP/2019",
+      "effectiveDate": "2019-06-17",
+      "mid": 4.7821
+    },
+    {
+      "no": "117/A/NBP/2019",
+      "effectiveDate": "2019-06-18",
+      "mid": 4.7736
+    },
+    {
+      "no": "118/A/NBP/2019",
+      "effectiveDate": "2019-06-19",
+      "mid": 4.7888
+    },
+    {
+      "no": "119/A/NBP/2019",
+      "effectiveDate": "2019-06-21",
+      "mid": 4.7799
+    },
+    {
+      "no": "120/A/NBP/2019",
+      "effectiveDate": "2019-06-24",
+      "mid": 4.7558
+    },
+    {
+      "no": "121/A/NBP/2019",
+      "effectiveDate": "2019-06-25",
+      "mid": 4.7704
+    },
+    {
+      "no": "122/A/NBP/2019",
+      "effectiveDate": "2019-06-26",
+      "mid": 4.7573
+    },
+    {
+      "no": "123/A/NBP/2019",
+      "effectiveDate": "2019-06-27",
+      "mid": 4.7520
+    },
+    {
+      "no": "124/A/NBP/2019",
+      "effectiveDate": "2019-06-28",
+      "mid": 4.7331
+    },
+    {
+      "no": "125/A/NBP/2019",
+      "effectiveDate": "2019-07-01",
+      "mid": 4.7323
+    },
+    {
+      "no": "126/A/NBP/2019",
+      "effectiveDate": "2019-07-02",
+      "mid": 4.7433
+    },
+    {
+      "no": "127/A/NBP/2019",
+      "effectiveDate": "2019-07-03",
+      "mid": 4.7294
+    },
+    {
+      "no": "128/A/NBP/2019",
+      "effectiveDate": "2019-07-04",
+      "mid": 4.7323
+    },
+    {
+      "no": "129/A/NBP/2019",
+      "effectiveDate": "2019-07-05",
+      "mid": 4.7319
+    },
+    {
+      "no": "130/A/NBP/2019",
+      "effectiveDate": "2019-07-08",
+      "mid": 4.7446
+    },
+    {
+      "no": "131/A/NBP/2019",
+      "effectiveDate": "2019-07-09",
+      "mid": 4.7475
+    },
+    {
+      "no": "132/A/NBP/2019",
+      "effectiveDate": "2019-07-10",
+      "mid": 4.7508
+    },
+    {
+      "no": "133/A/NBP/2019",
+      "effectiveDate": "2019-07-11",
+      "mid": 4.7453
+    },
+    {
+      "no": "134/A/NBP/2019",
+      "effectiveDate": "2019-07-12",
+      "mid": 4.7513
+    },
+    {
+      "no": "135/A/NBP/2019",
+      "effectiveDate": "2019-07-15",
+      "mid": 4.7515
+    },
+    {
+      "no": "136/A/NBP/2019",
+      "effectiveDate": "2019-07-16",
+      "mid": 4.7214
+    },
+    {
+      "no": "137/A/NBP/2019",
+      "effectiveDate": "2019-07-17",
+      "mid": 4.7175
+    },
+    {
+      "no": "138/A/NBP/2019",
+      "effectiveDate": "2019-07-18",
+      "mid": 4.7341
+    },
+    {
+      "no": "139/A/NBP/2019",
+      "effectiveDate": "2019-07-19",
+      "mid": 4.7372
+    },
+    {
+      "no": "140/A/NBP/2019",
+      "effectiveDate": "2019-07-22",
+      "mid": 4.7205
+    },
+    {
+      "no": "141/A/NBP/2019",
+      "effectiveDate": "2019-07-23",
+      "mid": 4.7224
+    },
+    {
+      "no": "142/A/NBP/2019",
+      "effectiveDate": "2019-07-24",
+      "mid": 4.7648
+    },
+    {
+      "no": "143/A/NBP/2019",
+      "effectiveDate": "2019-07-25",
+      "mid": 4.7643
+    },
+    {
+      "no": "144/A/NBP/2019",
+      "effectiveDate": "2019-07-26",
+      "mid": 4.7637
+    },
+    {
+      "no": "145/A/NBP/2019",
+      "effectiveDate": "2019-07-29",
+      "mid": 4.7394
+    },
+    {
+      "no": "146/A/NBP/2019",
+      "effectiveDate": "2019-07-30",
+      "mid": 4.6846
+    },
+    {
+      "no": "147/A/NBP/2019",
+      "effectiveDate": "2019-07-31",
+      "mid": 4.6813
+    },
+    {
+      "no": "148/A/NBP/2019",
+      "effectiveDate": "2019-08-01",
+      "mid": 4.7071
+    },
+    {
+      "no": "149/A/NBP/2019",
+      "effectiveDate": "2019-08-02",
+      "mid": 4.7051
+    },
+    {
+      "no": "150/A/NBP/2019",
+      "effectiveDate": "2019-08-05",
+      "mid": 4.7014
+    },
+    {
+      "no": "151/A/NBP/2019",
+      "effectiveDate": "2019-08-06",
+      "mid": 4.6879
+    },
+    {
+      "no": "152/A/NBP/2019",
+      "effectiveDate": "2019-08-07",
+      "mid": 4.6874
+    },
+    {
+      "no": "153/A/NBP/2019",
+      "effectiveDate": "2019-08-08",
+      "mid": 4.6856
+    },
+    {
+      "no": "154/A/NBP/2019",
+      "effectiveDate": "2019-08-09",
+      "mid": 4.6785
+    },
+    {
+      "no": "155/A/NBP/2019",
+      "effectiveDate": "2019-08-12",
+      "mid": 4.6704
+    },
+    {
+      "no": "156/A/NBP/2019",
+      "effectiveDate": "2019-08-13",
+      "mid": 4.6714
+    },
+    {
+      "no": "157/A/NBP/2019",
+      "effectiveDate": "2019-08-14",
+      "mid": 4.6926
+    },
+    {
+      "no": "158/A/NBP/2019",
+      "effectiveDate": "2019-08-16",
+      "mid": 4.7713
+    },
+    {
+      "no": "159/A/NBP/2019",
+      "effectiveDate": "2019-08-19",
+      "mid": 4.7531
+    },
+    {
+      "no": "160/A/NBP/2019",
+      "effectiveDate": "2019-08-20",
+      "mid": 4.7654
+    },
+    {
+      "no": "161/A/NBP/2019",
+      "effectiveDate": "2019-08-21",
+      "mid": 4.7623
+    },
+    {
+      "no": "162/A/NBP/2019",
+      "effectiveDate": "2019-08-22",
+      "mid": 4.7784
+    },
+    {
+      "no": "163/A/NBP/2019",
+      "effectiveDate": "2019-08-23",
+      "mid": 4.8050
+    },
+    {
+      "no": "164/A/NBP/2019",
+      "effectiveDate": "2019-08-26",
+      "mid": 4.8149
+    },
+    {
+      "no": "165/A/NBP/2019",
+      "effectiveDate": "2019-08-27",
+      "mid": 4.8171
+    },
+    {
+      "no": "166/A/NBP/2019",
+      "effectiveDate": "2019-08-28",
+      "mid": 4.8213
+    },
+    {
+      "no": "167/A/NBP/2019",
+      "effectiveDate": "2019-08-29",
+      "mid": 4.8277
+    }
+  ]
+}
