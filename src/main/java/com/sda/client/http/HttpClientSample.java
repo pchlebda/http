@@ -11,9 +11,9 @@ public class HttpClientSample {
         HttpClientFacade httpClientFacade = new HttpClientFacade();
 
         RateQuery query = RateQuery.builder()
-                .from("2019-08-16")
+                .from("2019-08-12")
                 .to("2019-08-29")
-                .currencyCode("eur")
+                .currencyCode("usd")
                 .build();
 
         Currency currency = httpClientFacade.getCurrency(query);
